@@ -1,25 +1,11 @@
-# Programming Assignment 1
+# Programming Assignment 2
 
-## Goal: Learn Standard I/O (Input/Output), numeric datatypes, and mathematical operations.
+## Goal: Learn the use of loops for processing strings and doing complex arithmetic.
 
-### NOTE: The speed of light is 299,792,458 m/s. (This is actually how the meter is officially defined nowadays!)
+## Part 1: Password Generator
 
-## Part 1
 
-You may have seen the famous equation 
-$$E_0 = mc^2$$
-from Einstein's special theory of relativity.
 
-This equation gives the energy, $E_0$, of an object with mass $m$ when it is standing still relative to an observer,
-where $c$ is the speed of light.
-
-$E_0$ may be called the "rest energy" of the object.
-
-However, if the object is moving with speed $v$ relative to the observer, then its energy is
-$$E_v = \frac{mc^2}{\sqrt{1 - v^2 / c^2}}.$$
-
-The difference between these two energy levels, $E_t=E_v - E_0$, is the *energy needed to impart speed v m/s to an object of mass m kilograms
-starting from rest*. Energy is measured in Joules (J).
 
 ### Your Assignment:
 
