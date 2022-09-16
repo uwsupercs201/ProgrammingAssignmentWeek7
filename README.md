@@ -1,4 +1,4 @@
-# Programming Assignment 2
+# Programming Assignment 3
 
 ## Goal: Learn the use of loops for processing strings.
 
